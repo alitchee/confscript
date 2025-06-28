@@ -1,5 +1,5 @@
-### 1
-##cloudflare+nginx+trojan-go+websocket+tls 一键部署脚本
+# 1
+cloudflare+nginx+trojan-go+websocket+tls 一键部署脚本
 # 前置
 vps
 域名
